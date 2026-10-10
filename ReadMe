@@ -1,0 +1,33 @@
+ Result Management System
+
+Project Overview
+
+This project is a responsive web application developed using HTML, CSS, and JavaScript.
+
+It allows users to enter student details and marks, calculate total marks and percentage, and display the result.
+
+Features
+
+- Student details validation
+- Marks validation
+- Automatic calculation of total marks and percentage
+- Pass/Fail result calculation
+- Display of student results
+- JSON data conversion
+- Local Storage support
+
+Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open the "index.html" file in your browser.
+
+Author
+
+Munna
